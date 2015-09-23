@@ -70,7 +70,7 @@ namespace LeatherApp.WebServices
         private int GetTotal_Customer_Info_Count()
         {
             int totalCustomer_Info_Count = 0;
-            string cs = ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString;
+            string cs = ConfigurationManager.ConnectionStrings["DefaultConnection2"].ConnectionString;
             using (SqlConnection con = new SqlConnection(cs))
             {
                 SqlCommand cmd =
