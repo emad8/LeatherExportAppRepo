@@ -15,13 +15,13 @@ namespace LeatherExportApp.Account
             //{
             //    Response.Redirect("~/forms/Default.aspx");
             //}
-            RegisterHyperLink.NavigateUrl = "Register";
+            //RegisterHyperLink.NavigateUrl = "Register";
             ForgetPasswordHyperlink.NavigateUrl = "ForgetPassword";
 
             var returnUrl = HttpUtility.UrlEncode(Request.QueryString["ReturnUrl"]);
             if (!String.IsNullOrEmpty(returnUrl))
             {
-                RegisterHyperLink.NavigateUrl += "?ReturnUrl=" + returnUrl;
+                //RegisterHyperLink.NavigateUrl += "?ReturnUrl=" + returnUrl;
             }
         }
     }
