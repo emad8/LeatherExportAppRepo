@@ -61,6 +61,7 @@
                                     <tr>
                                         <th>Code</th>
                                         <th>Name</th>
+                                        <th>Address</th>
                                         <th>City</th>
                                         <th>Zip/Postal</th>
                                         <th>State/Province</th>
