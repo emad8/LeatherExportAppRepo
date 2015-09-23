@@ -46,6 +46,7 @@ $(document).ready(function () {
         bServerSide: true,
         sAjaxSource: '../WebServices/ServiceDelivery_Location.asmx/Filter_Get_Delivery_Location',
         sServerMethod: 'post',
+        "scrollX": true
         //"sDom": '<"top"iflp<"clear">>rt<"bottom"iflp<"clear">>',
         //"bProcessing": true,
 

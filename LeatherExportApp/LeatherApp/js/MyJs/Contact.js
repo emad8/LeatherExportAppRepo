@@ -50,6 +50,7 @@ $(document).ready(function () {
         bServerSide: true,
         sAjaxSource: '../WebServices/ServiceContact.asmx/Filter_Get_Contact',
         sServerMethod: 'post',
+        "scrollX": true
         //"sDom": '<"top"iflp<"clear">>rt<"bottom"iflp<"clear">>',
         //"bProcessing": true,
 
