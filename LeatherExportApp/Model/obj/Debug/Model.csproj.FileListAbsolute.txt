@@ -1,0 +1,25 @@
+H:\Array House\LeatherApp\Model\bin\Debug\Model.dll
+H:\Array House\LeatherApp\Model\bin\Debug\Model.pdb
+H:\Array House\LeatherApp\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+H:\Array House\LeatherApp\Model\obj\Debug\Model.dll
+H:\Array House\LeatherApp\Model\obj\Debug\Model.pdb
+D:\Projects\Array House\Leather\LeatherApp\Model\bin\Debug\Model.dll
+D:\Projects\Array House\Leather\LeatherApp\Model\bin\Debug\Model.pdb
+D:\Projects\Array House\Leather\LeatherApp\Model\obj\Debug\Model.dll
+D:\Projects\Array House\Leather\LeatherApp\Model\obj\Debug\Model.pdb
+D:\Projects\Array House\Leather\LeatherApp\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+H:\Array House\Leather Export\LeatherExportApp\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+H:\Array House\Leather Export\LeatherExportApp\Model\obj\Debug\Model.dll
+H:\Array House\Leather Export\LeatherExportApp\Model\obj\Debug\Model.pdb
+H:\Array House\Leather Export\LeatherExportApp\Model\bin\Debug\Model.dll
+H:\Array House\Leather Export\LeatherExportApp\Model\bin\Debug\Model.pdb
+E:\Projects\Array House\LeatherExport\LeatherExportApp\Model\bin\Debug\Model.dll
+E:\Projects\Array House\LeatherExport\LeatherExportApp\Model\bin\Debug\Model.pdb
+E:\Projects\Array House\LeatherExport\LeatherExportApp\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\Projects\Array House\LeatherExport\LeatherExportApp\Model\obj\Debug\Model.dll
+E:\Projects\Array House\LeatherExport\LeatherExportApp\Model\obj\Debug\Model.pdb
+C:\Users\USAMA\Documents\GitHub\LeatherExportAppRepo\LeatherExportApp\Model\bin\Debug\Model.dll
+C:\Users\USAMA\Documents\GitHub\LeatherExportAppRepo\LeatherExportApp\Model\bin\Debug\Model.pdb
+C:\Users\USAMA\Documents\GitHub\LeatherExportAppRepo\LeatherExportApp\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\USAMA\Documents\GitHub\LeatherExportAppRepo\LeatherExportApp\Model\obj\Debug\Model.dll
+C:\Users\USAMA\Documents\GitHub\LeatherExportAppRepo\LeatherExportApp\Model\obj\Debug\Model.pdb

@@ -1,0 +1,42 @@
+H:\Array House\LeatherApp\DataAccess\bin\Debug\DataAccess.dll
+H:\Array House\LeatherApp\DataAccess\bin\Debug\DataAccess.pdb
+H:\Array House\LeatherApp\DataAccess\bin\Debug\Model.dll
+H:\Array House\LeatherApp\DataAccess\bin\Debug\Model.pdb
+H:\Array House\LeatherApp\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+H:\Array House\LeatherApp\DataAccess\obj\Debug\DataAccess.dll
+H:\Array House\LeatherApp\DataAccess\obj\Debug\DataAccess.pdb
+D:\Projects\Array House\Leather\LeatherApp\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Projects\Array House\Leather\LeatherApp\DataAccess\obj\Debug\DataAccess.dll
+D:\Projects\Array House\Leather\LeatherApp\DataAccess\bin\Debug\DataAccess.dll
+D:\Projects\Array House\Leather\LeatherApp\DataAccess\bin\Debug\DataAccess.pdb
+D:\Projects\Array House\Leather\LeatherApp\DataAccess\bin\Debug\Model.dll
+D:\Projects\Array House\Leather\LeatherApp\DataAccess\bin\Debug\Model.pdb
+D:\Projects\Array House\Leather\LeatherApp\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Usama\Desktop\LeatherApp\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Usama\Desktop\LeatherApp\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Usama\Desktop\LeatherApp\DataAccess\bin\Debug\Model.dll
+C:\Users\Usama\Desktop\LeatherApp\DataAccess\bin\Debug\Model.pdb
+C:\Users\Usama\Desktop\LeatherApp\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Usama\Desktop\LeatherApp\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Usama\Desktop\LeatherApp\DataAccess\obj\Debug\DataAccess.pdb
+H:\Array House\Leather Export\LeatherExportApp\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+H:\Array House\Leather Export\LeatherExportApp\DataAccess\obj\Debug\DataAccess.dll
+H:\Array House\Leather Export\LeatherExportApp\DataAccess\obj\Debug\DataAccess.pdb
+H:\Array House\Leather Export\LeatherExportApp\DataAccess\bin\Debug\DataAccess.dll
+H:\Array House\Leather Export\LeatherExportApp\DataAccess\bin\Debug\DataAccess.pdb
+H:\Array House\Leather Export\LeatherExportApp\DataAccess\bin\Debug\Model.dll
+H:\Array House\Leather Export\LeatherExportApp\DataAccess\bin\Debug\Model.pdb
+E:\Projects\Array House\LeatherExport\LeatherExportApp\DataAccess\bin\Debug\DataAccess.dll
+E:\Projects\Array House\LeatherExport\LeatherExportApp\DataAccess\bin\Debug\DataAccess.pdb
+E:\Projects\Array House\LeatherExport\LeatherExportApp\DataAccess\bin\Debug\Model.dll
+E:\Projects\Array House\LeatherExport\LeatherExportApp\DataAccess\bin\Debug\Model.pdb
+E:\Projects\Array House\LeatherExport\LeatherExportApp\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\Projects\Array House\LeatherExport\LeatherExportApp\DataAccess\obj\Debug\DataAccess.dll
+E:\Projects\Array House\LeatherExport\LeatherExportApp\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\USAMA\Documents\GitHub\LeatherExportAppRepo\LeatherExportApp\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\USAMA\Documents\GitHub\LeatherExportAppRepo\LeatherExportApp\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\USAMA\Documents\GitHub\LeatherExportAppRepo\LeatherExportApp\DataAccess\bin\Debug\Model.dll
+C:\Users\USAMA\Documents\GitHub\LeatherExportAppRepo\LeatherExportApp\DataAccess\bin\Debug\Model.pdb
+C:\Users\USAMA\Documents\GitHub\LeatherExportAppRepo\LeatherExportApp\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\USAMA\Documents\GitHub\LeatherExportAppRepo\LeatherExportApp\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\USAMA\Documents\GitHub\LeatherExportAppRepo\LeatherExportApp\DataAccess\obj\Debug\DataAccess.pdb
