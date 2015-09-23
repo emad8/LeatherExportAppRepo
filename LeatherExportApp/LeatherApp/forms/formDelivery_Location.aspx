@@ -84,7 +84,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <!-- Trigger the modal with a button -->
-                <button type="button" id="btnAdd" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Add Delivery_Location Info</button>
+                <button type="button" id="btnAdd" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Add Delivery Location Info</button>
 
                 <!-- Modal -->
                 <div id="myModal" class="modal fade" role="dialog">
