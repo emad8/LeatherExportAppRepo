@@ -14,8 +14,8 @@ namespace DataAccess.App_Code
 
         static Application_Configuration()
         {
-            _dbConnectionString = ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString;
-            _dbProviderName = ConfigurationManager.ConnectionStrings["DefaultConnection"].ProviderName;
+            _dbConnectionString = ConfigurationManager.ConnectionStrings["DefaultConnection2"].ConnectionString;
+            _dbProviderName = ConfigurationManager.ConnectionStrings["DefaultConnection2"].ProviderName;
         }
 
         public static string DBConnectionString
