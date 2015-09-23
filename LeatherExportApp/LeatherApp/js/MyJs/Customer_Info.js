@@ -50,6 +50,7 @@ $(document).ready(function () {
         bServerSide: true,
         sAjaxSource: '../WebServices/ServiceCustomer.asmx/Filter_Get_Customer_Info',
         sServerMethod: 'post',
+        "scrollX": true
         //"sDom": '<"top"iflp<"clear">>rt<"bottom"iflp<"clear">>',
         //"bProcessing": true,
 
