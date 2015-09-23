@@ -290,32 +290,10 @@
     <Content Include="dist\js\demo.js" />
     <Content Include="dist\js\pages\dashboard.js" />
     <Content Include="dist\js\pages\dashboard2.js" />
-    <Content Include="edit\formCategory.aspx" />
-    <Content Include="edit\formCompany.aspx" />
-    <Content Include="edit\formContractor.aspx" />
-    <Content Include="edit\formCuttingIssuance.aspx" />
-    <Content Include="edit\formCuttingOutStock.aspx" />
-    <Content Include="edit\formDelivery.aspx" />
-    <Content Include="edit\formLot.aspx" />
-    <Content Include="edit\formMarket.aspx" />
-    <Content Include="edit\formOrder.aspx" />
-    <Content Include="edit\formRate.aspx" />
-    <Content Include="edit\formStyle.aspx" />
-    <Content Include="edit\formVendor.aspx" />
-    <Content Include="edit\formWadaGhata.aspx" />
-    <Content Include="edit\table2.aspx" />
-    <Content Include="edit\tables.aspx" />
     <Content Include="forms\formContact.aspx" />
-    <Content Include="forms\formContractor.aspx" />
-    <Content Include="forms\formCuttingIssuance.aspx" />
-    <Content Include="forms\formCuttingOutStock.aspx" />
     <Content Include="forms\formDelivery_Location.aspx" />
     <Content Include="forms\formPayment_Info.aspx" />
-    <Content Include="forms\formMarket.aspx" />
-    <Content Include="forms\formStitching.aspx" />
-    <Content Include="forms\formWadaGhata.aspx" />
     <Content Include="forms\formCustomer_Info.aspx" />
-    <Content Include="forms\formCompany.aspx" />
     <Content Include="Images\accent.png" />
     <Content Include="Images\bullet.png" />
     <Content Include="Images\heroAccent.png" />
@@ -337,41 +315,14 @@
     <Content Include="js\HelperFunctions.js" />
     <Content Include="js\jquery.dataTables.min.js" />
     <Content Include="js\jquery.min.js" />
-    <Content Include="js\MyJs\Category.js" />
-    <Content Include="js\MyJs\Company.js" />
-    <Content Include="js\MyJs\Contractor.js" />
     <Content Include="js\MyJs\Contact.js" />
     <Content Include="js\MyJs\Delivery_Location.js" />
     <Content Include="js\MyJs\Customer_Info.js" />
-    <Content Include="js\MyJs\CuttingOutStock.js" />
-    <Content Include="js\MyJs\Delivery.js" />
     <Content Include="js\MyJs\Payment.js" />
-    <Content Include="js\MyJs\Lot.js" />
-    <Content Include="js\MyJs\Market.js" />
-    <Content Include="js\MyJs\Order.js" />
-    <Content Include="js\MyJs\Rate.js" />
-    <Content Include="js\MyJs\Styles.js" />
-    <Content Include="js\MyJs\Vendor.js" />
-    <Content Include="js\MyJs\WadaGhata.js" />
-    <Content Include="js\MyJs\CuttingIssuance.js" />
-    <Content Include="js\MyJs\ReloadAjax.js" />
-    <Content Include="js\MyJs\Style.js" />
-    <Content Include="js\MyJs\Style2.js" />
     <Content Include="packages.config">
       <SubType>Designer</SubType>
     </Content>
     <Content Include="MasterAccount.Master" />
-    <Content Include="forms\formCutting.aspx" />
-    <Content Include="forms\formDelivery.aspx" />
-    <Content Include="forms\formEmployee.aspx" />
-    <Content Include="forms\formLot.aspx" />
-    <Content Include="forms\formOrder.aspx" />
-    <Content Include="forms\formOrderInfo.aspx" />
-    <Content Include="forms\formPacking.aspx" />
-    <Content Include="forms\formRate.aspx" />
-    <Content Include="forms\formRejection.aspx" />
-    <Content Include="forms\formStyle.aspx" />
-    <Content Include="forms\formVendor.aspx" />
     <Content Include="forms\web.config" />
     <Content Include="plugins\bootstrap-slider\bootstrap-slider.js" />
     <Content Include="plugins\bootstrap-slider\slider.css" />
@@ -1090,25 +1041,10 @@
     <Content Include="plugins\timepicker\bootstrap-timepicker.js" />
     <Content Include="plugins\timepicker\bootstrap-timepicker.min.css" />
     <Content Include="plugins\timepicker\bootstrap-timepicker.min.js" />
-    <Content Include="WebServices\myfunction.asmx" />
-    <Content Include="WebServices\Myfunction2.asmx" />
-    <Content Include="WebServices\ServiceCategory.asmx" />
-    <Content Include="WebServices\ServiceCompany.asmx" />
     <Content Include="WebServices\ServiceContact.asmx" />
-    <Content Include="WebServices\ServiceContractor.asmx" />
     <Content Include="WebServices\ServiceCustomer.asmx" />
-    <Content Include="WebServices\ServiceCuttingIssuance.asmx" />
-    <Content Include="WebServices\ServiceCuttingOutStock.asmx" />
-    <Content Include="WebServices\ServiceDelivery.asmx" />
     <Content Include="WebServices\ServiceDelivery_Location.asmx" />
-    <Content Include="WebServices\ServiceLot.asmx" />
-    <Content Include="WebServices\ServiceMarket.asmx" />
-    <Content Include="WebServices\ServiceOrder.asmx" />
     <Content Include="WebServices\ServicePayment.asmx" />
-    <Content Include="WebServices\ServiceRate.asmx" />
-    <Content Include="WebServices\ServiceStyle.asmx" />
-    <Content Include="WebServices\ServiceVendor.asmx" />
-    <Content Include="WebServices\ServiceWadaGhata.asmx" />
     <Content Include="bootstrap\css\bootstrap.css.map" />
     <Content Include="bootstrap\fonts\glyphicons-halflings-regular.eot" />
     <Content Include="bootstrap\fonts\glyphicons-halflings-regular.ttf" />
@@ -1246,138 +1182,12 @@
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
-    <Compile Include="edit\formCategory.aspx.cs">
-      <DependentUpon>formCategory.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="edit\formCategory.aspx.designer.cs">
-      <DependentUpon>formCategory.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="edit\formCompany.aspx.cs">
-      <DependentUpon>formCompany.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="edit\formCompany.aspx.designer.cs">
-      <DependentUpon>formCompany.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="edit\formContractor.aspx.cs">
-      <DependentUpon>formContractor.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="edit\formContractor.aspx.designer.cs">
-      <DependentUpon>formContractor.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="edit\formCuttingIssuance.aspx.cs">
-      <DependentUpon>formCuttingIssuance.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="edit\formCuttingIssuance.aspx.designer.cs">
-      <DependentUpon>formCuttingIssuance.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="edit\formCuttingOutStock.aspx.cs">
-      <DependentUpon>formCuttingOutStock.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="edit\formCuttingOutStock.aspx.designer.cs">
-      <DependentUpon>formCuttingOutStock.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="edit\formDelivery.aspx.cs">
-      <DependentUpon>formDelivery.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="edit\formDelivery.aspx.designer.cs">
-      <DependentUpon>formDelivery.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="edit\formLot.aspx.cs">
-      <DependentUpon>formLot.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="edit\formLot.aspx.designer.cs">
-      <DependentUpon>formLot.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="edit\formMarket.aspx.cs">
-      <DependentUpon>formMarket.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="edit\formMarket.aspx.designer.cs">
-      <DependentUpon>formMarket.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="edit\formOrder.aspx.cs">
-      <DependentUpon>formOrder.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="edit\formOrder.aspx.designer.cs">
-      <DependentUpon>formOrder.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="edit\formRate.aspx.cs">
-      <DependentUpon>formRate.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="edit\formRate.aspx.designer.cs">
-      <DependentUpon>formRate.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="edit\formStyle.aspx.cs">
-      <DependentUpon>formStyle.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="edit\formStyle.aspx.designer.cs">
-      <DependentUpon>formStyle.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="edit\formVendor.aspx.cs">
-      <DependentUpon>formVendor.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="edit\formVendor.aspx.designer.cs">
-      <DependentUpon>formVendor.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="edit\formWadaGhata.aspx.cs">
-      <DependentUpon>formWadaGhata.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="edit\formWadaGhata.aspx.designer.cs">
-      <DependentUpon>formWadaGhata.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="edit\table2.aspx.cs">
-      <DependentUpon>table2.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="edit\table2.aspx.designer.cs">
-      <DependentUpon>table2.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="edit\tables.aspx.cs">
-      <DependentUpon>tables.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="edit\tables.aspx.designer.cs">
-      <DependentUpon>tables.aspx</DependentUpon>
-    </Compile>
     <Compile Include="forms\formContact.aspx.cs">
       <DependentUpon>formContact.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="forms\formContact.aspx.designer.cs">
       <DependentUpon>formContact.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="forms\formContractor.aspx.cs">
-      <DependentUpon>formContractor.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="forms\formContractor.aspx.designer.cs">
-      <DependentUpon>formContractor.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="forms\formCuttingIssuance.aspx.cs">
-      <DependentUpon>formCuttingIssuance.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="forms\formCuttingIssuance.aspx.designer.cs">
-      <DependentUpon>formCuttingIssuance.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="forms\formCuttingOutStock.aspx.cs">
-      <DependentUpon>formCuttingOutStock.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="forms\formCuttingOutStock.aspx.designer.cs">
-      <DependentUpon>formCuttingOutStock.aspx</DependentUpon>
     </Compile>
     <Compile Include="forms\formDelivery_Location.aspx.cs">
       <DependentUpon>formDelivery_Location.aspx</DependentUpon>
@@ -1393,40 +1203,12 @@
     <Compile Include="forms\formPayment_Info.aspx.designer.cs">
       <DependentUpon>formPayment_Info.aspx</DependentUpon>
     </Compile>
-    <Compile Include="forms\formMarket.aspx.cs">
-      <DependentUpon>formMarket.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="forms\formMarket.aspx.designer.cs">
-      <DependentUpon>formMarket.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="forms\formStitching.aspx.cs">
-      <DependentUpon>formStitching.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="forms\formStitching.aspx.designer.cs">
-      <DependentUpon>formStitching.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="forms\formWadaGhata.aspx.cs">
-      <DependentUpon>formWadaGhata.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="forms\formWadaGhata.aspx.designer.cs">
-      <DependentUpon>formWadaGhata.aspx</DependentUpon>
-    </Compile>
     <Compile Include="forms\formCustomer_Info.aspx.cs">
       <DependentUpon>formCustomer_Info.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="forms\formCustomer_Info.aspx.designer.cs">
       <DependentUpon>formCustomer_Info.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="forms\formCompany.aspx.cs">
-      <DependentUpon>formCompany.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="forms\formCompany.aspx.designer.cs">
-      <DependentUpon>formCompany.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -1444,83 +1226,6 @@
     </Compile>
     <Compile Include="forms\Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="forms\formCutting.aspx.cs">
-      <DependentUpon>formCutting.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="forms\formCutting.aspx.designer.cs">
-      <DependentUpon>formCutting.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="forms\formDelivery.aspx.cs">
-      <DependentUpon>formDelivery.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="forms\formDelivery.aspx.designer.cs">
-      <DependentUpon>formDelivery.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="forms\formEmployee.aspx.cs">
-      <DependentUpon>formEmployee.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="forms\formEmployee.aspx.designer.cs">
-      <DependentUpon>formEmployee.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="forms\formLot.aspx.cs">
-      <DependentUpon>formLot.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="forms\formLot.aspx.designer.cs">
-      <DependentUpon>formLot.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="forms\formOrder.aspx.cs">
-      <DependentUpon>formOrder.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="forms\formOrder.aspx.designer.cs">
-      <DependentUpon>formOrder.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="forms\formOrderInfo.aspx.cs">
-      <DependentUpon>formOrderInfo.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="forms\formOrderInfo.aspx.designer.cs">
-      <DependentUpon>formOrderInfo.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="forms\formPacking.aspx.cs">
-      <DependentUpon>formPacking.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="forms\formPacking.aspx.designer.cs">
-      <DependentUpon>formPacking.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="forms\formRate.aspx.cs">
-      <DependentUpon>formRate.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="forms\formRate.aspx.designer.cs">
-      <DependentUpon>formRate.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="forms\formRejection.aspx.cs">
-      <DependentUpon>formRejection.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="forms\formRejection.aspx.designer.cs">
-      <DependentUpon>formRejection.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="forms\formStyle.aspx.cs">
-      <DependentUpon>formStyle.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="forms\formStyle.aspx.designer.cs">
-      <DependentUpon>formStyle.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="forms\formVendor.aspx.cs">
-      <DependentUpon>formVendor.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="forms\formVendor.aspx.designer.cs">
-      <DependentUpon>formVendor.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site.Master.cs">
@@ -1544,80 +1249,20 @@
     <Compile Include="ViewSwitcher.ascx.designer.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>
     </Compile>
-    <Compile Include="WebServices\myfunction.asmx.cs">
-      <DependentUpon>myfunction.asmx</DependentUpon>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="WebServices\Myfunction2.asmx.cs">
-      <DependentUpon>Myfunction2.asmx</DependentUpon>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="WebServices\ServiceCategory.asmx.cs">
-      <DependentUpon>ServiceCategory.asmx</DependentUpon>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="WebServices\ServiceCompany.asmx.cs">
-      <DependentUpon>ServiceCompany.asmx</DependentUpon>
-      <SubType>Component</SubType>
-    </Compile>
     <Compile Include="WebServices\ServiceContact.asmx.cs">
       <DependentUpon>ServiceContact.asmx</DependentUpon>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="WebServices\ServiceContractor.asmx.cs">
-      <DependentUpon>ServiceContractor.asmx</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="WebServices\ServiceCustomer.asmx.cs">
       <DependentUpon>ServiceCustomer.asmx</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="WebServices\ServiceCuttingIssuance.asmx.cs">
-      <DependentUpon>ServiceCuttingIssuance.asmx</DependentUpon>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="WebServices\ServiceCuttingOutStock.asmx.cs">
-      <DependentUpon>ServiceCuttingOutStock.asmx</DependentUpon>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="WebServices\ServiceDelivery.asmx.cs">
-      <DependentUpon>ServiceDelivery.asmx</DependentUpon>
-      <SubType>Component</SubType>
-    </Compile>
     <Compile Include="WebServices\ServiceDelivery_Location.asmx.cs">
       <DependentUpon>ServiceDelivery_Location.asmx</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="WebServices\ServiceLot.asmx.cs">
-      <DependentUpon>ServiceLot.asmx</DependentUpon>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="WebServices\ServiceMarket.asmx.cs">
-      <DependentUpon>ServiceMarket.asmx</DependentUpon>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="WebServices\ServiceOrder.asmx.cs">
-      <DependentUpon>ServiceOrder.asmx</DependentUpon>
-      <SubType>Component</SubType>
-    </Compile>
     <Compile Include="WebServices\ServicePayment.asmx.cs">
       <DependentUpon>ServicePayment.asmx</DependentUpon>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="WebServices\ServiceRate.asmx.cs">
-      <DependentUpon>ServiceRate.asmx</DependentUpon>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="WebServices\ServiceStyle.asmx.cs">
-      <DependentUpon>ServiceStyle.asmx</DependentUpon>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="WebServices\ServiceVendor.asmx.cs">
-      <DependentUpon>ServiceVendor.asmx</DependentUpon>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="WebServices\ServiceWadaGhata.asmx.cs">
-      <DependentUpon>ServiceWadaGhata.asmx</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
   </ItemGroup>
