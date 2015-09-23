@@ -108,7 +108,7 @@
                                         <td>Customer Code and Name<label style="color: red;"> *</label></td>
                                         <td style="width:73%">
                                             <asp:DropDownList ID="ddlCus" DataTextField="Name" DataValueField="ID" class="form-control" runat="server"></asp:DropDownList>
-                                            <asp:SqlDataSource ID="SqlCus" runat="server" ConnectionString="<%$ ConnectionStrings:DefaultConnection %>" SelectCommand="SELECT Customer_Info.ID, CONCAT( Code,'--',Name) as Name FROM [Customer_Info] where  [Customer_Info].IsDeleted=0"></asp:SqlDataSource>
+                                            <asp:SqlDataSource ID="SqlCus" runat="server" ConnectionString="<%$ ConnectionStrings:DefaultConnection %>" SelectCommand="SELECT Customer_Info.ID, (Code +' - '+ Name ) as Name FROM [Customer_Info] where  [Customer_Info].IsDeleted=0"></asp:SqlDataSource>
                                         </td>
                                         <td>
                                             <asp:Button ID="btnNav" runat="server" class="btn btn-default" Text=". . ." OnClick="btnNav_Click"/>
