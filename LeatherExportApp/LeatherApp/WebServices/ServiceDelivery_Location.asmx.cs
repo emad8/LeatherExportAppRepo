@@ -69,7 +69,7 @@ namespace LeatherApp.WebServices
         private int GetTotal_Delivery_Location_Count()
         {
             int totalDelivery_Location_Count = 0;
-            string cs = ConfigurationManager.ConnectionStrings["DefaultConnection2"].ConnectionString;
+            string cs = ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString;
             using (SqlConnection con = new SqlConnection(cs))
             {
                 SqlCommand cmd =
