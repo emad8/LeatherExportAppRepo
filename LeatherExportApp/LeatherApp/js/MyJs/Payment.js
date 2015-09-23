@@ -54,7 +54,7 @@ $(document).ready(function () {
         bServerSide: true,
         sAjaxSource: '../WebServices/ServicePayment.asmx/Filter_Get_Payment_Info',
         sServerMethod: 'post',
-        "scrollX": true
+        
         //"sDom": '<"top"iflp<"clear">>rt<"bottom"iflp<"clear">>',
         //"bProcessing": true,
 
