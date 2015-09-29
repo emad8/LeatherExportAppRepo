@@ -269,9 +269,15 @@ function Update() {
 }
 
 
-Clear()
-{
-
+function Clear() {
+    // document.getElementById(lblMessage).innerHTML = "";
+    document.getElementById(hfId).value = "";
+    document.getElementById(ddlCus).value = "";
+    document.getElementById(txtAddress).value = "";
+    document.getElementById(txtCity).value = "";
+    document.getElementById(txtZP).value = "";
+    document.getElementById(txtSP).value = "";
+    document.getElementById(txtCountry).value = "";
 
 }
 
