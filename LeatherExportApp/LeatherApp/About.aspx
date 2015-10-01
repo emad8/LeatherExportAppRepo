@@ -8,7 +8,7 @@
 
     <article>
         <p>        
-            Use this area to provide additional 
+            Use this area to provide additional colaborators.
         </p>
 
         <p>        
